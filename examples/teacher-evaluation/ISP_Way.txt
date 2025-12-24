@@ -1,0 +1,176 @@
+{
+  "document_title": "The ISP Way",
+  "knowledge_base": {
+    "overview": {
+      "mission": "To inspire and challenge every learner to reach their full potential and become curious, independent, and compassionate citizens of the world.",
+      "purpose": "To explicitly outline how our mission, values, and principles of learning inform teaching and learning practices.",
+      "key_practices": [
+        "Implementing research-based practices in designing learning experiences.",
+        "Implementing practices of inquiry and blended learning.",
+        "Providing multiple means of engagement, representation, and action and expression.",
+        "Creating a strong community where all learners feel safe, respected, and represented."
+      ],
+      "definition_of_learning": "A journey of authentic discovery to develop understanding, skills, and character.",
+      "learning_principles": [
+        "iterative",
+        "exciting",
+        "meaningful",
+        "social"
+      ],
+      "equity_lens": "Consideration for all learners, regardless of background, learning abilities, social and emotional needs, language, and other diversity factors.",
+      "framework_for_equity": "Universal Design for Learning (UDL) to remove barriers, create pathways for learner variability, and maintain high expectations.",
+      "goal_for_learners": "To become expert learners who are purposeful & motivated, resourceful & knowledgeable, and strategic & goal-directed."
+    },
+    "community_of_professionals": {
+      "title": "We are a community of professionals.",
+      "description": "At ISP we commit to excellence. This means we are a school of professionals who treat each other with compassion and integrity, understanding that our strength comes from our diversity and our innovative spirit. These values drive how we collaborate, communicate and make decisions.",
+      "sections": {
+        "mindset": [
+          "We believe all students are OUR students.",
+          "We believe every teacher is a language teacher.",
+          "We embrace intercultural competency.",
+          "We are solution oriented, ask questions, and reach out for support.",
+          "We are conscientious about our impact on the environment and are mindful of how we use our physical and digital resources."
+        ],
+        "communication": [
+          "We communicate with respect, kindness, and empathy.",
+          "We practice timely and efficient communication.",
+          "We listen with an open mind to understand all perspectives.",
+          "We assume positive intentions in others' words and actions.",
+          "We manage concerns directly and constructively."
+        ],
+        "proactive_and_progressive_practices": [
+          "We commit to continuous learning.",
+          "We are willing to try new things, even though the outcome might be uncertain.",
+          "We collaboratively approach situations and problems with curiosity and open-mindedness.",
+          "We are learner-centered educators with a UDL lens."
+        ],
+        "collaboration": [
+          "We engage in opportunities to learn together and share resources with a variety of colleagues.",
+          "We advocate and act courageously for ourselves and others.",
+          "We share learning spaces.",
+          "We seek opportunities to co-plan and co-teach with colleagues.",
+          "We engage in coaching cycles and peer observations.",
+          "We make decisions and take actions as a community in the best interest of our planet and future generations."
+        ]
+      }
+    },
+    "inclusion_and_belonging": {
+      "title": "We ensure inclusion and belonging.",
+      "description": "We know that the foundation of strong teaching and learning starts with creating a learning environment where all learners, regardless of abilities, preferences, language, background or social-emotional and learning needs, feel welcome and are part of the community. This means all teachers work to build strong relationships with their students, provide predictable routines and structures, and create a classroom environment that removes barriers to learning.",
+      "sections": {
+        "routines_and_structures": [
+          "We co-establish, teach, model, and reinforce classroom expectations.",
+          "We prepare for students to be learning ready (e.g., materials, mindset, remove distractions, executive functioning, etc.).",
+          "We implement and practice structured school and classroom routines in every learning space."
+        ],
+        "inclusive_environment": [
+          "We establish an inclusive and respectful learning environment for all members of our community.",
+          "We create caring learning environments and actively engage all students in practicing and modeling SEL.",
+          "We teach SEL through evidence-based programs.",
+          "We create flexible learning spaces in the classroom that can be adapted to meet the needs of varying physical and mental abilities."
+        ],
+        "student_relationships": [
+          "We ensure that every student feels valued and represented.",
+          "We know our students strengths and needs, interests, and background.",
+          "We provide opportunities for student voice and agency."
+        ],
+        "positive_behavior_culture": [
+          {
+            "point": "We recognize, support, and reinforce the use of expected social, emotional, and academic behaviors.",
+            "details": [
+              "We address inappropriate behavior as learning opportunities.",
+              "We provide opportunities for students to self-reflect on their behaviors and the impact of their actions."
+            ]
+          },
+          {
+            "point": "We collect and monitor student behavior data, to understand student needs and guide behavioral supports."
+          },
+          {
+            "point": "We develop strong home-school relationships and communicate and collaborate with parents to support student behavior."
+          },
+          {
+            "point": "We collaborate to develop plans for students who consistently struggle to meet behavioral expectations."
+          }
+        ]
+      }
+    },
+    "effective_teaching_and_learning_community": {
+      "title": "We are an effective teaching and learning community.",
+      "description": "Learning at ISP is a journey of authentic discovery to develop understanding, skills, and character by creating experiences that are meaningful, exciting, social, and iterative for all students. To ensure that we provide access, maintain high expectations, and meet the needs of all of our learners, we commit to common research based practices across the school to make sure that all students have access to the “ISP Way.”",
+      "sections": {
+        "backwards_design_process": [
+          {
+            "point": "We plan and communicate what students must know, understand, and be able to do."
+          },
+          {
+            "point": "We design lessons using Universal Design for Learning principles and evidence-based instructional strategies that are:",
+            "details": [
+              "socially and culturally relevant and responsive.",
+              "age and ability appropriate.",
+              "personalized and contextualized to learners' lives."
+            ]
+          },
+          {
+            "point": "We create authentic assessments that address the skills and content standards that enable students to transfer learning to new contexts."
+          },
+          {
+            "point": "We design inquiry cycles and opportunities for students."
+          }
+        ],
+        "data_and_feedback": [
+          {
+            "point": "We provide timely and specific feedback to students on their academics and behavior.",
+            "details": [
+              "Submit pastoral care notes in SEQTA for students of concern."
+            ]
+          },
+          {
+            "point": "We use data as an essential component of the teaching process, before, during and after learning."
+          },
+          {
+            "point": "We use data to personalize learning and meet individual student needs."
+          },
+          {
+            "point": "We guide learners to set goals and monitor their own progress."
+          },
+          {
+            "point": "We provide students with multiple opportunities to apply feedback and reflect."
+          }
+        ],
+        "content_and_language_integration": [
+          {
+            "point": "We increase accessibility, interaction and understanding by:",
+            "details": [
+              "activating or supplying background knowledge.",
+              "providing learners with options to access information through multiple forms (visually, written, orally, auditorily).",
+              "explicitly teaching language at the whole text, sentence, and vocabulary levels."
+            ]
+          },
+          {
+            "point": "We provide multilingual options for students to communicate, construct, and demonstrate their learning."
+          },
+          {
+            "point": "We scaffold practice and performance opportunities to meet student needs."
+          }
+        ],
+        "engaging_lessons": [
+          {
+            "point": "We structure lessons with an inclusive welcome, engaging strategies, effective transitions, and an intentional closing."
+          },
+          {
+            "point": "We ensure active learning for students by:",
+            "details": [
+              "providing frequent interaction opportunities.",
+              "incorporating flexible grouping and collaborative learning structures.",
+              "Including scaffolding, differentiation, and extension.",
+              "including multiple means of representation.",
+              "providing choice and flexible pacing.",
+              "utilizing inquiry cycles."
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
