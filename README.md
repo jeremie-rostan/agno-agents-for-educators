@@ -7,6 +7,7 @@ A collection of AI agent examples built with [Agno](https://github.com/agno-agi/
 This repository showcases practical multi-agent systems that help educators with various tasks, from teacher evaluations to curriculum development. Each example demonstrates how to build sophisticated AI workflows using Agno's agent framework.
 
 ## Examples
+(Note that examples are given functional, but raw. You will want to test and refine them!)
 
 ### 1. Teacher Evaluation Multi-Agent System
 
