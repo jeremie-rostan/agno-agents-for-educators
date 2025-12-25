@@ -1,0 +1,15 @@
+# Core Agno framework
+agno
+
+# OpenAI client (required for LMStudio's OpenAI-compatible API)
+openai
+
+# Web framework for AgentOS
+fastapi
+uvicorn
+
+# Gradio for beautiful web interface
+gradio
+
+# Data validation
+pydantic

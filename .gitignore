@@ -54,5 +54,8 @@ htmlcov/
 # Logs
 *.log
 
-# Agno specific
+# Framework-specific directories
 .agno/
+
+# Note: This .gitignore applies to all subfolders (agno-apps/, claude-sdk-apps/, etc.)
+# Patterns like __pycache__/ and .env will match at any directory level
