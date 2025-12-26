@@ -17,6 +17,11 @@ This repository is framework-agnostic and organized by the AI framework or tool 
   - ISP Way document analysis systems
   - Both cloud-based and local model implementations
 
+- **[school-leader-apps/](school-leader-apps/)** - Applications for school administrators and educational leaders
+  - Student support ticket tracking and management systems
+  - AI-powered pattern analysis and reporting
+  - Voice transcription and documentation tools
+
 ### Future Additions
 
 This repository will grow to include applications built with:
